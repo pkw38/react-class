@@ -1,0 +1,27 @@
+.blog {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.content {
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+
+.writerWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.writer,
+.readtime {
+  font-size: 14px;
+  color: gray;
+}
